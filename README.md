@@ -69,7 +69,7 @@ Sau khi nộp, **snapshot v1** là bản cố định để người khác đố
 
 Báo cáo thí nghiệm là sản phẩm nhóm, thu riêng tại nơi LC cấp. Tạo thư mục `K4-DAY13-TenNhom/` với `TEAMMATES.md`, `PRE-LABEL-REPORT.md` và output được phép giữ. Bản đã điền chứa danh tính/dữ liệu, không commit lên repo public. Nếu dùng máy LC, để bằng chứng trong nơi lưu riêng của phòng và theo hướng dẫn LC, không tự sao chép Robotaxi ra ngoài.
 
-Phần cá nhân nộp trực tiếp qua CVAT và portal: annotation đã Save, v1, feedback và phản hồi/v2. Không nộp ZIP hay CSV thay thế vòng này. Mỗi người chịu trách nhiệm thao tác của mình dù phần pre-label có làm chung. Thời lượng gợi ý là 60 phút pre-label, 115 phút nguồn, 50 phút QC và 15 phút phản hồi; các chặng có thể xen kẽ. Đây không phải cam kết làm đủ 30 frame full-range và 30 QC trong thời gian còn lại.
+Phần cá nhân nộp trực tiếp qua CVAT và portal: annotation đã Save, v1, feedback và phản hồi/v2. Không nộp ZIP hay CSV thay thế vòng này. Mỗi người chịu trách nhiệm thao tác của mình dù phần pre-label có làm chung. Thời lượng gợi ý là 60 phút pre-label, 115 phút nguồn, 50 phút QC và 15 phút phản hồi; các chặng có thể xen kẽ. Đây không phải cam kết làm đủ 30 frame full-range và 30 QC trong thời gian còn lại.   
 
 1. Kiểm báo cáo nhóm đã đến LC và từng người có nhận xét riêng, ghi đúng đã chạy thật hay chỉ phân tích.
 2. Kiểm nguồn đã Save trước mỗi lượt nộp; phạm vi toàn frame chỉ chọn khi thật sự tìm cả thiếu và thừa.
